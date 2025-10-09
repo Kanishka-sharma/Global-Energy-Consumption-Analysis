@@ -23,7 +23,7 @@ All analyses were performed in **R**, using the **tidyverse** ecosystem for data
 
 | Attribute | Description |
 |------------|-------------|
-| **Source** | Aggregated from multiple open global energy datasets (1996–2022) |
+| **Source** | Aggregated from multiple open global energy datasets (1996-2022) |
 | **Observations** | ~4,300 country-year records |
 | **Variables** | `country`, `year`, `population`, `gdp`, `primary_energy`, `fossil_fuel`, `nuclear`, `renewables` |
 

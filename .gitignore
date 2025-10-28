@@ -1,0 +1,10 @@
+# Data files
+data/
+
+# R & RStudio specific files
+.Rhistory
+.RData
+.Rproj.user/
+
+# R environment files 
+renv/

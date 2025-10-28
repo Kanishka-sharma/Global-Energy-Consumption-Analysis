@@ -1,8 +1,8 @@
-# Global Energy Consumption and Its Economic–Demographic Drivers (1996-2022)
+# Global Energy Consumption and Its Economic–Demographic Drivers (1996-2023)
 
 ## Overview
 
-This repository presents a comprehensive **statistical analysis of global energy consumption** from 1996 to 2022, focusing on how **economic output (GDP)** and **population** influence total energy demand.  
+This repository presents a comprehensive **statistical analysis of global energy consumption** from 1996 to 2023, focusing on how **economic output (GDP)** and **population** influence total energy demand.  
 The study integrates **exploratory data analysis (EDA)**, **statistical modeling**, and **visual interpretation** to uncover structural relationships and regional variations in global energy systems.
 
 All analyses were performed in **R**, using the **tidyverse** ecosystem for data handling and visualization.
@@ -23,8 +23,8 @@ All analyses were performed in **R**, using the **tidyverse** ecosystem for data
 
 | Attribute | Description |
 |------------|-------------|
-| **Source** | Aggregated from multiple open global energy datasets (1996-2022) |
-| **Observations** | ~4,300 country-year records |
+| **Source** | Aggregated from multiple open global energy datasets (1996-2023) |
+| **Observations** | ~6,018 country-year records |
 | **Variables** | `country`, `year`, `population`, `gdp`, `primary_energy`, `fossil_fuel`, `nuclear`, `renewables` |
 
 ### **Data Preparation**

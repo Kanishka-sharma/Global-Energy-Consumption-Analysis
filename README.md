@@ -1,4 +1,4 @@
-# Global Energy Consumption and Its Economic–Demographic Drivers (1996-2023)
+# Global Energy Consumption and Its Economic- #Demographic Drivers (1996-2023)
 
 ## Overview
 
@@ -51,8 +51,8 @@ All analyses were performed in **R**, using the **tidyverse** ecosystem for data
 #### **Statistical Results**
 | Relationship | Correlation (r) | Interpretation |
 |---------------|-----------------|----------------|
-| GDP ↔ Primary Energy | **0.97** | Very strong positive correlation |
-| Population ↔ Primary Energy | **0.69** | Moderate-strong correlation |
+| GDP <-> Primary Energy | **0.97** | Very strong positive correlation |
+| Population <-> Primary Energy | **0.69** | Moderate-strong correlation |
 | GDP Quartile vs Energy | Increasing trend | Energy rises sharply with GDP |
 
 ---

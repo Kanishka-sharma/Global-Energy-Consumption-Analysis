@@ -1,4 +1,4 @@
-# Global Energy Consumption and Its Economic- #Demographic Drivers (1996-2023)
+# Global Energy Consumption and Its Economic-Demographic Drivers (1996-2023)
 
 ## Overview
 
